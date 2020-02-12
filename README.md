@@ -12,10 +12,10 @@ And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.i
 ## 3. Valuation of TOP 100 bittokens
 TBD
 
-<center>Due to heart diseases and unemployment, our CEO now in deep financial difficulties, any donation from you is welcome, thank you!</center>
-<center><b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b</center>
-<center><b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw</center>
-<center><b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh</center>
+## PS: Due to heart diseases and unemployment, our CEO now in deep financial difficulties, any donation from you is welcome, thank you!
+<b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b
+<b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw
+<b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh
 
 ---------------------------------------------------------------------
 
@@ -33,10 +33,10 @@ TBD
 ## 3. 爲市值排名前100的代幣估值
 TBD
 
-<center>由於心臟病和失業，我們的老闆正處於經濟困境，歡迎捐贈，感謝您！</center>
-<center><b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b</center>
-<center><b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw</center>
-<center><b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh</center>
+## PS: 由於心臟病和失業，我們的老闆正處於經濟困境，歡迎捐贈，感謝您！
+<b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b
+<b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw
+<b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh
 
 ---------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ TBD
 ## 3. 为市值排名前100的代币估值
 TBD
 
-<center>由于心脏病和失业，我们的老板正处于经济困境，欢迎捐赠，感谢您！</center>
-<center><b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b</center>
-<center><b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw</center>
-<center><b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh</center>
+## PS: 由于心脏病和失业，我们的老板正处于经济困境，欢迎捐赠，感谢您！
+<b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b
+<b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw
+<b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh
