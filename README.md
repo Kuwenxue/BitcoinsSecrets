@@ -9,6 +9,14 @@ The Bitcoin official website([bitcoin.org](http://bitcoin.org/)) has a Bitcoin [
 
 And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.icu/tags/Bitcoin-FAQ/) is this one: [Is Bitcoin valuable?](https://en.bittokens.icu/categories/tokens/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/)
 
+## 3. Valuation of TOP 100 bittokens
+TBD
+
+<center>Due to heart diseases and unemployment, our CEO now in deep financial difficulties, any donation from you is welcome, thank you!</center>
+<center><b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b</center>
+<center><b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw</center>
+<center><b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh</center>
+
 ---------------------------------------------------------------------
 
 # 代幣們的祕密
@@ -22,6 +30,14 @@ And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.i
 
 其中最受歡迎的一個問答是：[比特幣有價值嗎？](https://bittokens.icu/categories/代幣/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/)
 
+## 3. 爲市值排名前100的代幣估值
+TBD
+
+<center>由於心臟病和失業，我們的老闆正處於經濟困境，歡迎捐贈，感謝您！</center>
+<center><b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b</center>
+<center><b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw</center>
+<center><b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh</center>
+
 ---------------------------------------------------------------------
 
 # 代币们的秘密
@@ -34,3 +50,11 @@ And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.i
 比特币官方网站（[bitcoin.org](http://bitcoin.org/)）有一个关于比特币的[FAQ](http://bitcoin.org/zh_CN/faq)（常见问答），大约写于2013年前后，时至今日，这个FAQ的一些内容可能已过时。为了帮助比特币爱好者们更全面地认识比特币（系统），不偏信官方的一面之词，本站会长期维护一个全新的、与时俱进的关于比特币（系统）的FAQ。在本站这个[新的比特币FAQ](https://zh.bittokens.icu/tags/比特币FAQ/)中，相应主题的文章里面的对话内容中，左侧“骑士”所表达的内容来自比特币官方网站的FAQ；右侧“乐者”所表达的内容来自本站站长的一些币圈朋友们的观点，由[本站](https://zh.bittokens.icu/)小编编辑整理。
 
 其中最受欢迎的一个问答是：[比特币有价值吗？](https://zh.bittokens.icu/categories/代币/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/)
+
+## 3. 为市值排名前100的代币估值
+TBD
+
+<center>由于心脏病和失业，我们的老板正处于经济困境，欢迎捐赠，感谢您！</center>
+<center><b>USDT(ERC20):</b> 0x290e5c5ca845370fdd42e26d3aceab30f8e6854b</center>
+<center><b>USDT(TRC20):</b> TXTcxGR3PMKRPpmEem5woVXAwrMBsMuiCw</center>
+<center><b>XMR:</b> 46C5cBvQBmxJ2SFiiHoqRydNqxju8NWM6Kb7RJQDkHAQMpe1NkuAgNJR5Ap3RuVh7HWuUG7qS2tQFb4tzkxRUVceMhCbFsh</center>
