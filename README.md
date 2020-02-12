@@ -7,7 +7,7 @@ The Bitcoin system has been receiving much attention since its birth in January 
 ## 2. [FAQ of Bitcoin 2020](https://en.bittokens.icu/tags/Bitcoin-FAQ/)
 The Bitcoin official website([bitcoin.org](http://bitcoin.org/)) has a Bitcoin [FAQ](http://bitcoin.org/en/faq)(Frequently Asked Questions), written around 2013, and some of the contents of this FAQ may have been obsolete. In order to help Bitcoin enthusiasts to understand Bitcoin (system) more comprehensively, our site will maintain a new and up-to-date FAQ on Bitcoin (system). In the articles of this [new FAQ of Bitcoin](https://en.bittokens.icu/tags/Bitcoin-FAQ/), the content expressed by the "Knight" on the left side comes from the FAQ of the Bitcoin official website; the content expressed by the "Letters" on the right side comes from the opinions of some friends of our CEO, and is edited and reorganized by [us](https://en.bittokens.icu/).
 
-And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.icu/tags/Bitcoin-FAQ/) is this one: [Is Bitcoin valuable?](https://en.bittokens.icu/categories/tokens/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/).
+And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.icu/tags/Bitcoin-FAQ/) is this one: [Is Bitcoin valuable?](https://en.bittokens.icu/categories/tokens/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/)
 
 ---------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.i
 ## 2. [比特幣FAQ（2020年最新版）](https://bittokens.icu/tags/比特幣FAQ/)
 比特幣官方網站（[bitcoin.org](http://bitcoin.org/)）有一個關於比特幣的[FAQ](http://bitcoin.org/zh_CN/faq)（常見問答），大約寫於2013年前後，時至今日，這個FAQ的一些內容可能已過時。爲了幫助比特幣愛好者們更全面地認識比特幣（系統），不偏信官方的一面之詞，本站會長期維護一個全新的、與時俱進的關於比特幣（系統）的FAQ。在本站這個[新的比特幣FAQ](https://bittokens.icu/tags/比特幣FAQ/)中，相應主題的文章裏面的對話內容中，左側“騎士”所表達的內容來自比特幣官方網站的FAQ；右側“樂者”所表達的內容來自本站站長的一些幣圈朋友們的觀點，由[本站](https://bittokens.icu/)小編編輯整理。
 
-其中最受歡迎的一個問答是：[比特幣有價值嗎？](https://bittokens.icu/categories/代幣/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/).
+其中最受歡迎的一個問答是：[比特幣有價值嗎？](https://bittokens.icu/categories/代幣/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/)
 
 ---------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ And the most popular article of this [new FAQ of Bitcoin](https://en.bittokens.i
 ## 2. [比特币FAQ（2020年最新版）](https://zh.bittokens.icu/tags/比特币FAQ/)
 比特币官方网站（[bitcoin.org](http://bitcoin.org/)）有一个关于比特币的[FAQ](http://bitcoin.org/zh_CN/faq)（常见问答），大约写于2013年前后，时至今日，这个FAQ的一些内容可能已过时。为了帮助比特币爱好者们更全面地认识比特币（系统），不偏信官方的一面之词，本站会长期维护一个全新的、与时俱进的关于比特币（系统）的FAQ。在本站这个[新的比特币FAQ](https://zh.bittokens.icu/tags/比特币FAQ/)中，相应主题的文章里面的对话内容中，左侧“骑士”所表达的内容来自比特币官方网站的FAQ；右侧“乐者”所表达的内容来自本站站长的一些币圈朋友们的观点，由[本站](https://zh.bittokens.icu/)小编编辑整理。
 
-其中最受欢迎的一个问答是：[比特币有价值吗？](https://zh.bittokens.icu/categories/代币/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/).
+其中最受欢迎的一个问答是：[比特币有价值吗？](https://zh.bittokens.icu/categories/代币/2018/11/11/bitcoin-faq-economy-do-bitcoins-have-value/)
